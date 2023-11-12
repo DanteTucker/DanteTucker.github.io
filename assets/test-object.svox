@@ -1,6 +1,6 @@
 model
 name = Test Object
-revision = 8425
+revision = 8428
 size = 20 40 20
 origin = -y
 shell = Outline 0.25
@@ -9,4 +9,4 @@ material type = toon, lighting = smooth, deform = 1 1
 material type = basic, lighting = smooth, roughness = 0, refractionRatio = 1, side = back
   colors = Outline:#000
 voxels
-6(380-20B6(9-11B)2(-19B)-119B6(7-13B))2(380-20B6(9-11B)2(-19B)-239B)7(380-420B)380-320B5(7-13B)380-3(320B7-4(8B12-)8B385-)9B2-309B7-4(8B12-)8B5-
+380-2B32-4(6B14-)3B2-B14-3B2-B-6B7-6B-19B-119B6(7-13B)380-2B32-5(6B14-)6B-6B7-6B-19B5(-119B6(7-13B)380-2B27-5(11B9-)11B2(-19B))-239B380-2B27-5(11B9-)11B2(-19B)-239B7(380-2B18-400B)380-320B5(7-13B)380-3(320B7-4(8B12-)8B385-)9B2-309B7-4(8B12-)8B5-
